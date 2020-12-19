@@ -1,2 +1,8 @@
-# Warsztat-Dzien-5
-Zadanie z warsztatu
+# Program do zarządzania aktualnymi zadaniami.
+
+Opcje programu:
+- Dodawanie nowych zadań
+- Usuwanie zadań 
+- Wyswietlanie zadań
+
+Zapisuje i odczytje zadania z pliku o podanej wczesniej sciezce
